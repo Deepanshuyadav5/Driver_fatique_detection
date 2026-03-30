@@ -1,0 +1,40 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large Files & Datasets
+*.h5
+driver_fatigue_model.h5
+*.zip
+train_dataset.zip
+*.csv
+
+# Media / Audio
+*.mp3
+arpit_bala_alarm.mp3
+*.wav
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code
+.vscode/
